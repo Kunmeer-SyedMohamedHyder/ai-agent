@@ -1,5 +1,5 @@
 ---
-title: Ask Syed's AI
+title: Meet Syed's AI
 emoji: 🤖
 colorFrom: blue
 colorTo: purple

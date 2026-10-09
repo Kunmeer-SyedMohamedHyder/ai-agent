@@ -80,7 +80,7 @@ def respond(message: str, history: list[dict]) -> str:
 
 demo = gr.ChatInterface(
     fn=respond,
-    title="Ask Syed's AI 🤖",
+    title="Meet Syed's AI 🤖",
     description=(
         "Hi! I'm Syed's personal AI agent. Ask me about his experience, projects, "
         "AI-agent and open-source work, or what he's open to — or leave your details "
@@ -89,7 +89,7 @@ demo = gr.ChatInterface(
     examples=[
         "What does Syed do?",
         "Tell me about his AI-agent and open-source work.",
-        "What is he looking for / open to?",
+        "What's his most impressive project?",
         "What are his strongest skills?",
     ],
 )
