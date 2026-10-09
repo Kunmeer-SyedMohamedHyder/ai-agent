@@ -2,6 +2,11 @@
 
 Syed's most current and differentiating work is in GenAI and AI agents.
 
+His **flagship** here is his own **AI Agent OS** — a personal, production-style
+platform of AI agents he built and runs his own work through (this agent runs on
+part of it). It's the project he's most proud of; the full story is in
+[[building-the-ai-agent-os]].
+
 ## Open-source: OpenAI Agents SDK
 His first open-source contributions to a major AI-agents framework (the OpenAI
 Agents SDK, Python):
@@ -31,6 +36,25 @@ approach scaling from tens to ~90 agents.
   a wiki-style knowledge base and real tools like meeting scheduling).
 - **FlightAI** — a multilingual, voice-enabled flight-booking assistant (Gradio +
   LLM) with side-by-side English/translated chat.
+
+## Open-source: Agent Skills library
+He also publishes an open-source **Agent Skills** library — portable, self-contained
+`SKILL.md` procedures (document generation, extraction, deck building, and more)
+that any capable AI agent can pick up and run. It's his way of packaging hard-won
+workflows so other people's agents can reuse them, and it's part of a broader push
+toward portable, shareable agent capabilities.
+
+## Current research frontier
+Alongside building, Syed runs hands-on research into **making AI agents dependable**
+(the kind of work he's preparing to speak about at AI-engineering conferences):
+- **Agent reliability / "composure"** — measuring how steady an agent's behaviour is
+  from its tool-call trajectory, so you can catch brittle or panicky behaviour
+  before it ships.
+- **Agent upgrade drift** — detecting when swapping the underlying model quietly
+  changes an agent's behaviour, even when the final answer looks the same.
+- **A bottom-up agentic enterprise OS** — a real, no-mocks reference build of the
+  identity, governance, and shared-memory layers an organisation needs to run many
+  agents safely.
 
 ## The through-line
 Across all of it, Syed keeps pushing the same idea: **make AI agents reliable and

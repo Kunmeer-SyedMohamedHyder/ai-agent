@@ -5,6 +5,10 @@ The moments that best capture Syed's journey so far.
 - **From a remote village to enterprise cloud engineering.** He grew up in a small
   remote village in the southernmost part of India and built a career as an
   enterprise cloud engineer at a global technology company.
+- **Built his own AI Agent OS — his flagship project.** A personal,
+  production-style platform of AI agents grounded in a wiki-style knowledge base
+  and wired to real tools (MCP), which he runs his own work through. *This very
+  agent runs on part of it.* It's the project he's most proud of.
 - **Promoted to Cloud Developer II within ~2 years** of joining as a fresh graduate,
   recognized as a key contributor.
 - **Selected early for an international assignment.** Chosen for a month-long,

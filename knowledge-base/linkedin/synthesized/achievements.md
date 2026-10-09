@@ -3,6 +3,14 @@
 A summary of Syed's awards, recognitions, and standout wins. (Impact is described
 without internal project code-names or colleagues' names.)
 
+## Flagship project — his AI Agent OS
+- **His own AI Agent OS** is the work he's most proud of and the best single
+  example of what he can build: a personal, production-style platform of AI agents
+  grounded in a wiki-style knowledge base and wired to real tools over MCP, which
+  he operates his own work through. *The agent answering you now runs on part of
+  it.* See [[building-the-ai-agent-os]]. If asked for his most impressive or most
+  interesting project, this is it.
+
 ## Awards
 - **HPE Star Point Award** — for bold, courageous leadership.
 - **Gold Star Award (×2)** — won in organization-wide hackathons for impactful

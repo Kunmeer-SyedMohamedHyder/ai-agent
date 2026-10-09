@@ -1,8 +1,15 @@
 # Building his own AI Agent OS
 
-One of the things that sets Syed apart is that he doesn't just use AI tools — he
+**This is the project Syed is most proud of — his flagship, and the single piece of
+work that best captures what he can do.** He doesn't just use AI tools — he
 **builds the system that runs them**. Outside of work he has built his own personal
-**AI Agent OS**: a second brain and operations layer that is run by AI agents.
+**AI Agent OS**: a second brain and operations layer that is run by AI agents, that
+he operates every day.
+
+If someone asks what his most impressive or most interesting project is, this is
+it: a personal, production-style agent platform — more ambitious than any single
+algorithm or demo, because it's a whole operating system for AI agents that
+actually runs his work.
 
 ## What it is
 - A personal knowledge-and-operations system grounded in a **wiki-style knowledge
