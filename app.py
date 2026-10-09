@@ -80,7 +80,6 @@ def respond(message: str, history: list[dict]) -> str:
 
 demo = gr.ChatInterface(
     fn=respond,
-    type="messages",
     title="Ask Syed's AI 🤖",
     description=(
         "Hi! I'm Syed's personal AI agent. Ask me about his experience, projects, "
